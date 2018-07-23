@@ -1,0 +1,190 @@
+WHO region,Year,Number of under-five deaths (thousands),Number of infant deaths (thousands),Number of neonatal deaths (thousands)
+Africa,2016,2720,1879,993
+Africa,2015,2781,1909,1000
+Africa,2014,2846,1940,1010
+Africa,2013,2917,1976,1019
+Africa,2012,2993,2011,1028
+Africa,2011,3073,2048,1038
+Africa,2010,3158,2087,1047
+Africa,2009,3246,2126,1055
+Africa,2008,3333,2166,1063
+Africa,2007,3424,2207,1070
+Africa,2006,3515,2251,1076
+Africa,2005,3606,2294,1083
+Africa,2004,3696,2337,1089
+Africa,2003,3781,2377,1096
+Africa,2002,3861,2414,1102
+Africa,2001,3931,2445,1107
+Africa,2000,3988,2470,1109
+Africa,1999,4024,2483,1109
+Africa,1998,4049,2487,1105
+Africa,1997,4040,2480,1098
+Africa,1996,4015,2463,1088
+Africa,1995,4003,2442,1076
+Africa,1994,3979,2418,1063
+Africa,1993,3905,2385,1048
+Africa,1992,3855,2354,1035
+Africa,1991,3809,2325,1022
+Africa,1990,3764,2296,1010
+Americas,2016,215,183,114
+Americas,2015,222,189,118
+Americas,2014,230,196,121
+Americas,2013,239,202,125
+Americas,2012,247,209,129
+Americas,2011,256,217,133
+Americas,2010,302,231,137
+Americas,2009,276,233,140
+Americas,2008,287,242,144
+Americas,2007,299,252,149
+Americas,2006,313,263,154
+Americas,2005,328,275,161
+Americas,2004,344,288,168
+Americas,2003,361,302,175
+Americas,2002,380,317,184
+Americas,2001,401,333,192
+Americas,2000,423,351,201
+Americas,1999,449,369,210
+Americas,1998,476,389,219
+Americas,1997,497,408,228
+Americas,1996,525,429,238
+Americas,1995,553,450,248
+Americas,1994,582,471,258
+Americas,1993,611,493,267
+Americas,1992,641,514,277
+Americas,1991,670,535,286
+Americas,1990,699,556,295
+South-East Asia,2016,1407,1136,817
+South-East Asia,2015,1483,1190,851
+South-East Asia,2014,1572,1252,890
+South-East Asia,2013,1668,1320,932
+South-East Asia,2012,1773,1394,978
+South-East Asia,2011,1889,1473,1027
+South-East Asia,2010,2008,1558,1079
+South-East Asia,2009,2136,1647,1134
+South-East Asia,2008,2284,1740,1190
+South-East Asia,2007,2390,1823,1244
+South-East Asia,2006,2519,1912,1298
+South-East Asia,2005,2646,1995,1351
+South-East Asia,2004,2807,2084,1403
+South-East Asia,2003,2900,2162,1455
+South-East Asia,2002,3028,2243,1509
+South-East Asia,2001,3160,2330,1561
+South-East Asia,2000,3294,2417,1613
+South-East Asia,1999,3427,2499,1663
+South-East Asia,1998,3562,2586,1713
+South-East Asia,1997,3697,2671,1761
+South-East Asia,1996,3828,2755,1808
+South-East Asia,1995,3959,2838,1853
+South-East Asia,1994,4092,2921,1898
+South-East Asia,1993,4220,3004,1944
+South-East Asia,1992,4353,3086,1991
+South-East Asia,1991,4489,3173,2039
+South-East Asia,1990,4626,3261,2088
+Europe,2016,108,93,57
+Europe,2015,113,97,60
+Europe,2014,118,102,62
+Europe,2013,124,107,65
+Europe,2012,129,112,67
+Europe,2011,135,116,70
+Europe,2010,140,121,72
+Europe,2009,145,125,75
+Europe,2008,151,130,77
+Europe,2007,156,134,80
+Europe,2006,163,139,83
+Europe,2005,169,144,86
+Europe,2004,178,150,89
+Europe,2003,187,157,93
+Europe,2002,197,165,96
+Europe,2001,209,174,101
+Europe,2000,223,184,106
+Europe,1999,238,195,112
+Europe,1998,255,208,118
+Europe,1997,272,221,124
+Europe,1996,290,234,132
+Europe,1995,308,248,139
+Europe,1994,326,262,146
+Europe,1993,342,275,153
+Europe,1992,358,288,160
+Europe,1991,373,300,168
+Europe,1990,390,313,175
+Eastern Mediterranean,2016,877,690,475
+Eastern Mediterranean,2015,896,704,485
+Eastern Mediterranean,2014,915,717,494
+Eastern Mediterranean,2013,932,729,501
+Eastern Mediterranean,2012,947,739,507
+Eastern Mediterranean,2011,958,746,510
+Eastern Mediterranean,2010,967,751,512
+Eastern Mediterranean,2009,975,756,512
+Eastern Mediterranean,2008,985,760,510
+Eastern Mediterranean,2007,993,764,508
+Eastern Mediterranean,2006,1002,768,508
+Eastern Mediterranean,2005,1012,773,509
+Eastern Mediterranean,2004,1024,779,512
+Eastern Mediterranean,2003,1039,788,517
+Eastern Mediterranean,2002,1057,800,522
+Eastern Mediterranean,2001,1078,814,529
+Eastern Mediterranean,2000,1102,830,537
+Eastern Mediterranean,1999,1128,848,547
+Eastern Mediterranean,1998,1155,866,557
+Eastern Mediterranean,1997,1182,886,566
+Eastern Mediterranean,1996,1209,905,574
+Eastern Mediterranean,1995,1236,924,581
+Eastern Mediterranean,1994,1263,942,587
+Eastern Mediterranean,1993,1290,961,592
+Eastern Mediterranean,1992,1317,980,594
+Eastern Mediterranean,1991,1346,1000,596
+Eastern Mediterranean,1990,1374,1019,597
+Western Pacific,2016,313,260,156
+Western Pacific,2015,332,276,166
+Western Pacific,2014,351,292,176
+Western Pacific,2013,372,309,186
+Western Pacific,2012,393,328,198
+Western Pacific,2011,414,345,210
+Western Pacific,2010,435,363,223
+Western Pacific,2009,458,383,238
+Western Pacific,2008,483,403,254
+Western Pacific,2007,511,425,272
+Western Pacific,2006,544,450,294
+Western Pacific,2005,580,479,316
+Western Pacific,2004,621,511,340
+Western Pacific,2003,668,546,364
+Western Pacific,2002,719,581,388
+Western Pacific,2001,774,622,413
+Western Pacific,2000,834,661,437
+Western Pacific,1999,898,706,463
+Western Pacific,1998,967,753,493
+Western Pacific,1997,1045,806,528
+Western Pacific,1996,1130,866,569
+Western Pacific,1995,1230,935,618
+Western Pacific,1994,1339,1015,673
+Western Pacific,1993,1453,1100,731
+Western Pacific,1992,1567,1190,790
+Western Pacific,1991,1667,1272,845
+Western Pacific,1990,1742,1337,891
+(WHO) Global,2016,5642,4242,2614
+(WHO) Global,2015,5831,4368,2681
+(WHO) Global,2014,6034,4501,2754
+(WHO) Global,2013,6254,4645,2830
+(WHO) Global,2012,6484,4794,2909
+(WHO) Global,2011,6727,4947,2990
+(WHO) Global,2010,7014,5114,3073
+(WHO) Global,2009,7241,5274,3155
+(WHO) Global,2008,7526,5445,3240
+(WHO) Global,2007,7777,5608,3326
+(WHO) Global,2006,8059,5785,3415
+(WHO) Global,2005,8344,5963,3507
+(WHO) Global,2004,8674,6152,3603
+(WHO) Global,2003,8940,6335,3702
+(WHO) Global,2002,9247,6523,3803
+(WHO) Global,2001,9557,6720,3904
+(WHO) Global,2000,9868,6916,4005
+(WHO) Global,1999,10169,7104,4105
+(WHO) Global,1998,10467,7291,4206
+(WHO) Global,1997,10737,7475,4309
+(WHO) Global,1996,11000,7655,4412
+(WHO) Global,1995,11293,7841,4517
+(WHO) Global,1994,11585,8034,4628
+(WHO) Global,1993,11825,8223,4738
+(WHO) Global,1992,12095,8416,4850
+(WHO) Global,1991,12358,8609,4958
+(WHO) Global,1990,12598,8787,5058
